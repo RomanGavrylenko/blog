@@ -2,3 +2,5 @@ node_modules
 .idea
 .http
 ormconfig.json
+.vscode/
+yarn-error.log
